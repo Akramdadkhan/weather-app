@@ -1,13 +1,12 @@
-# ⛅ React Weather App (made by mili.codes) ⚛️
+# ⛅ React Weather App (made by Akram Khan) ⚛️
 
--✅ Created as a certification project for SheCodes Workshops.\
 -✅ API used - https://openweathermap.org/api/one-call-api \
 -✅ Animation library for JS - https://animejs.com/ \
--✅ Showcasing: 
-  > Current weather from any city typed on search bar 🔍 .\
-  > Next 6 days weather (updated) .\
-  > Convertion of current weather (Celcius or Fahrenheit)  .
+-✅ Showcasing:
 
+> Current weather from any city typed on search bar 🔍 .\
+> Next 6 days weather (updated) .\
+> Convertion of current weather (Celcius or Fahrenheit) .
 
 # Getting Started with Create React App
 
